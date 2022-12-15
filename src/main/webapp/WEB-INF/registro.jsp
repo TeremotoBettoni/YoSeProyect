@@ -26,6 +26,13 @@
             padding-top: 2%;
             width: 60px;
         }
+        #myBtn {
+            right: 30px;
+            background-color:#FFAC31; /* Set a background color */
+            color: black; /* Text color */
+            cursor: pointer;
+            border-radius: 10px;
+        }
     </style>
 </head>
 <body id="fondo">
