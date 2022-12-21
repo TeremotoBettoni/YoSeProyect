@@ -60,10 +60,17 @@ public class PosteoServiceImpl implements PosteoService {
 		}
 		return null;
 	}
-
+	
+	
 	public List<Posteo> listaPosteo() {
 		
 		return posteoRepository.findAll(Sort.by(Sort.Direction.DESC,"id"));
+	}
+	
+	@Override
+	public List<Posteo> buscarPorCategoria(Long id) {
+		
+		return posteoRepository.buscarPorCategoria(id);
 	}
 	
 	
