@@ -205,6 +205,14 @@
 		    transform: translate(-50%, -50%);
 		    
 		}
+		
+		/*estilos de resumenes de carucel*/
+		#btnBotonesCarrucel:hover {
+            transform: scale(1.2)
+        }
+        #btnBotonesCarrucel {
+            transition: transform .5s ease;
+        }
 		/*Scroll para  redireccionar desde el header a las secciones*/
 		:root {
 		  scroll-behavior: smooth;
@@ -496,6 +504,29 @@
 			</label>
 			</section>
         </div>
+        <!--Seccion Resumen Carrusel-->
+            <div class="row justify-content-evenly" style= "-webkit-text-fill-color: white; text-align: center;">
+                <div class="border rounded border-warning col-2 resumen" id="btnBotonesCarrucel">
+                    <img src="https://i.postimg.cc/T34pwJmh/Cursor-Click.png" alt="Conectar">
+                    <h5>Conecta</h5>
+                </div>
+                <div class="border rounded border-warning col-2 resumen" id="btnBotonesCarrucel">
+                    <img src="https://i.postimg.cc/W4qtJq68/Lamp.png" alt="Preguntar">
+                    <h5>Pregunta</h5>
+                </div>
+                <div class="border rounded border-warning col-2 resumen" id="btnBotonesCarrucel">
+                    <img src="https://i.postimg.cc/gJ9jycgW/Search.png" alt="Buscar">
+                    <h5>Busca</h5>
+                </div>
+                <div class="border rounded border-warning col-2 resumen" id="btnBotonesCarrucel">
+                    <img src="https://i.postimg.cc/RZsntBrS/Bookmark.png" alt="Guardar">
+                    <h5>Guarda</h5>
+                </div>
+                <div class="border rounded border-warning col-2 resumen" id="btnBotonesCarrucel">
+                    <img src="https://i.postimg.cc/ZRrRwkQy/Share.png" alt="Compartir">
+                    <h5>Comparte</h5>
+                </div>
+            </div>
         <div class="container" id="NuestroEquipo"> <!--Seccion de vista nuestro equipo-->
             <div class="row">
                 <div class="row">
