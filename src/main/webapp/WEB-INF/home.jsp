@@ -118,7 +118,7 @@
                         <li class="nav-link dropdown-toggle">
                             <form action="/home/categoria" method="post">
                                 <select name="categoriaSeleccionada" id="categoriaSeleccionada" class="btn btn-outline-warning">
-                                    <option value= "0" selected>Categorías</option>
+                                    <option value= "0" selected>Asignatura</option>
                                     <c:forEach var="categoria" items="${listaCategorias}">
                                     <option value="${categoria.id}">${categoria.detalleCategoria}</option>
                                     </c:forEach>
