@@ -301,7 +301,7 @@
 		                                <!-- aqui termina el select del tipo posteo -->
                                         <div class="mb-3">
                                                 <select name="detalleCategoria" id="categoria" class="form-select">
-                                                    <option value= "0" selected>Categorías</option>
+                                                    <option value= "0" selected>Asignatura</option>
                                                     <c:forEach var="categoria" items="${listaCategorias}">
                                                     <option value="${categoria.id}">${categoria.detalleCategoria}</option>
                                                     </c:forEach>
@@ -320,8 +320,8 @@
                                             <input type="text" class="form-control" id="url" name="url">
                                         </div>
                                         <div class="modal-footer">
-                                                <button type="submit" class="btn btn-primary" href="/home">Publicar</button>
                                                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                                                <button type="submit" class="btn btn-primary" href="/home">Publicar</button>
                                         </div>
                                     </form>
                                 </div>
