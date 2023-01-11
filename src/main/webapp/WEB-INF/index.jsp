@@ -368,6 +368,9 @@
         background-repeat: no-repeat;
 		background-size: contain;
         }
+        .row{
+        margin-right: calc(-.0 * var(--bs-gutter-x));
+        }
 		
     </style>
 </head>
