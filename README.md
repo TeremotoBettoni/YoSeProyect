@@ -13,7 +13,7 @@ Para el diseño de sitio web se modelo en un principio desde Figma, y para model
 Has click en la imagen para redireccionar a codigo
 ## Vista inicial
 <a href="https://github.com/TeremotoBettoni/YoSeProyect/blob/main/src/main/webapp/WEB-INF/index.jsp">
-  <img src="" />
+  <img src="https://i.postimg.cc/6QyKyFQs/index.png" />
 </a>
 
 ## Registro y login
