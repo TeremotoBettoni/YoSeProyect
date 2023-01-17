@@ -18,10 +18,11 @@ Has click en la imagen para redireccionar a codigo
 
 ## Registro y login
 <a href="https://github.com/TeremotoBettoni/YoSeProyect/blob/main/src/main/webapp/WEB-INF/login.jsp">
-  <img src="" />
+  <img src="https://i.postimg.cc/Nfdmtr9N/login.png" />
 </a>
+
 <a href="https://github.com/TeremotoBettoni/YoSeProyect/blob/main/src/main/webapp/WEB-INF/registro.jsp">
-  <img src="" />
+  <img src="https://i.postimg.cc/brhksbkK/Registro.png" />
 </a>
 
 ## Panel home al ingresar con usuario y clave
