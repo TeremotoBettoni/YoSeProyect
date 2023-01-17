@@ -32,5 +32,5 @@ Has click en la imagen para redireccionar a codigo
 
 ## Pagina de perfil
 <a href="https://github.com/TeremotoBettoni/YoSeProyect/blob/main/src/main/webapp/WEB-INF/perfil.jsp">
-  <img src="" />
+  <img src="https://i.postimg.cc/XJkNVy8H/perfil.png" />
 </a>
