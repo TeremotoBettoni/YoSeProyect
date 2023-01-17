@@ -10,10 +10,26 @@ Proyecto desarrollado en Java con uso de Spring Boot con diseño de las vistas d
 Para el diseño de sitio web se modelo en un principio desde Figma, y para modelo de BD de practico primeramente en MySQL con uso de DBeaver, para posteriormente de traspasarlo a código Java haciendo las respectivas pruebas desde Postman.
 
 # Avances
+Has click en la imagen para redireccionar a codigo
 ## Vista inicial
+<a href="https://github.com/TeremotoBettoni/YoSeProyect/blob/main/src/main/webapp/WEB-INF/index.jsp">
+  <img src="" />
+</a>
 
 ## Registro y login
+<a href="https://github.com/TeremotoBettoni/YoSeProyect/blob/main/src/main/webapp/WEB-INF/login.jsp">
+  <img src="" />
+</a>
+<a href="https://github.com/TeremotoBettoni/YoSeProyect/blob/main/src/main/webapp/WEB-INF/registro.jsp">
+  <img src="" />
+</a>
 
 ## Panel home al ingresar con usuario y clave
+<a href="https://github.com/TeremotoBettoni/YoSeProyect/blob/main/src/main/webapp/WEB-INF/home.jsp">
+  <img src="" />
+</a>
 
 ## Pagina de perfil
+<a href="https://github.com/TeremotoBettoni/YoSeProyect/blob/main/src/main/webapp/WEB-INF/perfil.jsp">
+  <img src="" />
+</a>
