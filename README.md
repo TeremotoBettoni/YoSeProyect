@@ -27,7 +27,7 @@ Has click en la imagen para redireccionar a codigo
 
 ## Panel home al ingresar con usuario y clave
 <a href="https://github.com/TeremotoBettoni/YoSeProyect/blob/main/src/main/webapp/WEB-INF/home.jsp">
-  <img src="https://i.postimg.cc/C5LmpZf9/home.png" />
+  <img src="https://i.postimg.cc/C5LmpZf9/home.png"/>
 </a>
 
 ## Pagina de perfil
